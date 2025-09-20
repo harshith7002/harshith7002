@@ -11,7 +11,8 @@
 </p>
 
 <!-- Coder GIF -->
-<img align="right" alt="Young Coder" width="400" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" />
+<img align="right" alt="Coding Student" width="400" src="coding-student.gif" />
+
 
 
 
