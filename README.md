@@ -1,13 +1,8 @@
+# Hi 👋, I'm Sai Harshith Moluguri
 
-<!-- Typing Animation -->
 
-<p align="center">
-  <a href="https://github.com/harshith7002">
-    <h1 align="center">Hi 👋, I'm Sai Harshith Moluguri</h1>
-    <h3 align="center">Web Developer 💻</h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Open+Source+Contributor+🌍;Tech+Explorer;Computer+Science+Engineer;Web+Developer" alt="Typing SVG" />
-  </a>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Open+Source+Contributor+🌍;Tech+Explorer🔭;Computer+Science+Engineer👨‍💻;Web+Developer💻)
+
 
 
 <!-- Profile Views -->
@@ -16,7 +11,9 @@
 </p>
 
 <!-- Coder GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Young Coder" width="400" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" />
+
+
 
 ---
 
