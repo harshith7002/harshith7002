@@ -20,7 +20,7 @@
 - 👀 Interested in **Coding & Development**  
 - 🌱 Currently learning **Java Programming & Advanced Web Development**  
 - 💞 Open to collaborate on **Development & Open Source Projects**  
-- 📫 Reach me through **[Social Media Links](https://github.com/harshith7002/harshith7002/blob/main/README.md#connectwithMe)
+- 📫 Reach me through **[Social Media Links](https://github.com/harshith7002/harshith7002/blob/main/README.md#ConnectWithMe)
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: *Good design + clean code = magic ✨*  
 
