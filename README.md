@@ -20,7 +20,7 @@
 - 👀 Interested in **Coding & Development**  
 - 🌱 Currently learning **Java Programming & Advanced Web Development**  
 - 💞 Open to collaborate on **Development & Open Source Projects**  
-- 📫 Reach me through **[Social Media Links](#)**  
+- 📫 Reach me through **[Social Media Links](#connect-with-me)**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: *Good design + clean code = magic ✨*  
 
