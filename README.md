@@ -1,11 +1,9 @@
-
-
 <!-- Typing Animation -->
 
 <p align="center">
   <a href="https://github.com/harshith7002">
     <h1 align="center">Hi 👋, I'm Sai Harshith Moluguri</h1>
-<h3 align="center">Web Developer 💻</h3>
+    <h3 align="center">Web Developer 💻</h3>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Always+Learning+New+Things;Coding+%26+Development+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
@@ -86,15 +84,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdnm18&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnm18&theme=tokyonight" alt="GitHub streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnm18&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshith7002&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshith7002&theme=tokyonight" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshith7002&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📈 Activity Graph
-[![harshith7002's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshith7002&bg_color=1a1b27&color=38bdae&line=38bdae&point=f5a97f&area=true&hide_border=true)](https://github.com/harshith7002/github-readme-activity-graph)
+[![harshith7002's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshith7002&bg_color=1a1b27&color=38bdae&line=38bdae&point=f5a97f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -112,3 +110,4 @@
 - 📧 Email: your-email@example.com  
 - 📱 Phone: +91-XXXXXXXXXX  
 - 💬 Discord: [Join Server](#)  
+
