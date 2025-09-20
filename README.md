@@ -5,10 +5,12 @@
 
 
 
+
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harshith7002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 
 <!-- Coder GIF -->
 <img align="right" alt="Coding Student" width="400" src="coding-student.gif" />
