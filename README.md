@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 - 👀 Interested in **Coding & Development**  
-- 🌱 Currently learning **Java Programming & Advanced Web Development**  
+- 🌱 Currently learning **Programming & Advanced Web Development**  
 - 💞 Open to collaborate on **Development & Open Source Projects**  
 - 📫 Reach me through **[Social Media Links](#-connect-with-me)**  
 - 😄 Pronouns: **He/Him**  
