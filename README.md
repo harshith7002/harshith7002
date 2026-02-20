@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sai Harshith Moluguri
+# Hi! 👋, I'm Sai Harshith Moluguri
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Open+Source+Contributor+🌍;Tech+Explorer🔭;Computer+Science+Engineer👨‍💻;Web+Developer💻)
