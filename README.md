@@ -84,7 +84,7 @@ I'm a **Computer Science Engineer** passionate about building clean, scalable we
 ---
 ## 🏙️ Contribution City
 
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contributions](./profile-3d/profile-night-rainbow.svg)
 
 ## 📈 Activity Graph
 
