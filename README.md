@@ -84,11 +84,6 @@
 
 
 
-
-
-![End Animation](end.gif)
----
-
 ## 📈 Activity Graph
 [![harshith7002's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshith7002&bg_color=1a1b27&color=38bdae&line=38bdae&point=f5a97f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🎉 Fun Corner  
@@ -120,8 +115,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-📧 **Email:** [saiharshithm2024@gmail.com](mailto:saiharshithm2024@gmail.com)    
 
 
 ---
