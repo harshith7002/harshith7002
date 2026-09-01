@@ -8,7 +8,7 @@ CSE student at SRM University, Hyderabad. I build full-stack apps and spend most
 
 - **[Roast My Resume](https://github.com/harshith7002/roast-my-resume)** — Flask + React app that scores resumes against ATS-style criteria and generates a PDF report. Deployed, and the one I keep coming back to add to.
 - **[SafeGuard](https://github.com/harshith7002/SafeGuard)** — Offline-first emergency guide (React + Express + Postgres) with an AI triage assistant that falls back to plain keyword matching if there's no API key configured, so it never just breaks.
-- **[Project Vajra](https://github.com/harshith7002/Project_Vajra)** — SIH 2026 prototype: a local-only document/RAG workbench (FastAPI + React) for reading technical PDFs and P&IDs without sending anything off-device.
+- **[Project Vajra](https://github.com/harshith7002/Project_Vajra)** — A local-only document/RAG workbench (FastAPI + React) for reading technical PDFs and P&IDs without sending anything off-device.
 - **[Project Zenith](https://github.com/harshith7002/Project-Zenith)** — Real-time space-tracking dashboard: WebGL earth, SGP4 satellite propagation, live ISS telemetry from public APIs.
 - **[mcp-gemini-agent](https://github.com/harshith7002/mcp-gemini-agent)** — Small FastAPI service where Gemini picks a tool, the tool fetches real data, and Gemini writes the answer from it. Deployed on Cloud Run.
 
