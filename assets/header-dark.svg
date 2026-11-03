@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1000" height="220" role="img" aria-labelledby="title">
+  <title id="title">Sai Harshith Moluguri. Builds backends and LLM systems. Studying at SRMIST and IIT Madras.</title>
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#30363d"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0.45" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="219" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="998" height="218" rx="14" fill="url(#dots)"/>
+  <rect x="1" y="1" width="998" height="218" rx="14" fill="url(#fade)"/>
+  <circle cx="860" cy="110" r="62" fill="none" stroke="#3fb950" stroke-opacity="0.35"/>
+  <circle cx="860" cy="110" r="96" fill="none" stroke="#3fb950" stroke-opacity="0.18"/>
+  <circle cx="860" cy="110" r="6" fill="#3fb950"/>
+  <circle cx="920" cy="88" r="4" fill="#e6edf3" fill-opacity="0.8"/>
+  <rect x="56" y="58" width="36" height="4" rx="2" fill="#3fb950"/>
+  <text x="56" y="124" fill="#e6edf3" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1">Sai Harshith Moluguri</text>
+  <text x="56" y="170" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24">backend &amp; LLM systems · SRMIST · IIT Madras</text>
+</svg>

@@ -1,0 +1,45 @@
+name: Refresh profile cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      # The action wipes profile-summary-card-output/ on every run,
+      # so generate one theme, set it aside, then generate the other.
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: github_dark
+          EXCLUDE_REPOS: kubernetes
+          NAME: Sai Harshith Moluguri
+          AUTO_PUSH: false
+      - run: sudo mv profile-summary-card-output/github_dark "$RUNNER_TEMP/github_dark"
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: default
+          EXCLUDE_REPOS: kubernetes
+          NAME: Sai Harshith Moluguri
+          AUTO_PUSH: false
+      - run: sudo mv "$RUNNER_TEMP/github_dark" profile-summary-card-output/github_dark
+
+      - name: Commit refreshed cards
+        run: |
+          sudo chown -R "$(id -u):$(id -g)" profile-summary-card-output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output
+          git diff --cached --quiet || { git commit -m "Refresh profile cards"; git push; }
